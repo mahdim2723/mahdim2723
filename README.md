@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm [Your Name], a Python enthusiast who loves coding mathematical projects. My main focus is on creating clean and efficient solutions, especially when it comes to scientific computing and data visualization.
+I'm Mahdi, a Python enthusiast who loves coding mathematical projects. My main focus is on creating clean and efficient solutions, especially when it comes to scientific computing and data visualization.
 
 ### 🧑‍💻 What I enjoy:
 - **Mathematics & Algorithms:** Implementing complex mathematical concepts.
@@ -22,9 +22,6 @@ I'm working on:
 
 ### 📫 Let's connect!
 Feel free to reach out or check out my repositories for more cool projects!
-
-- [Your LinkedIn](#)
-- [Your Email](#)
 
 ---
 
