@@ -5,15 +5,12 @@ I'm Mahdi, a Python enthusiast who loves coding mathematical projects. My main f
 ### 🧑‍💻 What I enjoy:
 - **Mathematics & Algorithms:** Implementing complex mathematical concepts.
 - **Python:** Writing Python code that's both elegant and efficient.
-- **NumPy:** For fast numerical operations.
 - **Matplotlib:** Bringing data to life with beautiful visualizations.
 
 ### 🔧 Tools & Technologies:
 - Python 🐍
 - NumPy 🔢
 - Matplotlib 📊
-- Jupyter Notebooks 📔
-- Git & GitHub 💻
 
 ### 🚀 Current Projects:
 I'm working on:
@@ -24,5 +21,3 @@ I'm working on:
 Feel free to reach out or check out my repositories for more cool projects!
 
 ---
-
-**"Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding."** – William Paul Thurston
