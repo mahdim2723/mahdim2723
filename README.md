@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Mahdi, a Python enthusiast who loves coding mathematical projects. My main focus is on creating clean and efficient solutions, especially when it comes to scientific computing and data visualization.
+I'm Mahdi, a Python programmer who loves coding mathematical projects. My main focus is on creating clean and efficient solutions, especially when it comes to scientific computing and data visualization.
 
 ### 🧑‍💻 What I enjoy:
 - **Mathematics & Algorithms:** Implementing complex mathematical concepts.
